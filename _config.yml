@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "SujaL Dave"
+title                    : "Sujal Dave"
 title_separator          : "-"
 name                     : &name "Sujal Dave"
 description              : &description "PhD Candidate at University of Calgary"
@@ -22,7 +22,7 @@ repository               : "sujaldave"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sujalProfilePic.png"
+  avatar           : "sujalProfilePic.jpeg"
   name             : "Sujal Dave"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at University of Calgary"
@@ -279,7 +279,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
