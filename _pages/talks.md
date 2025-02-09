@@ -9,7 +9,7 @@ author_profile: true
 
 **Dave S.** Korobenko A. (2025) 
 ROM-VMS formulation for environmental flows and wind energy applications.
-_3rd IACM Digital Twins in Engineering Conference (DTE 2025), Paris, France._
+_3<sup>rd</sup> IACM Digital Twins in Engineering Conference (DTE 2025), Paris, France._
 
 **Dave S.** Korobenko A. (2024)
 Reduced order modeling of wind turbines using variational multiscale method.
@@ -17,7 +17,7 @@ _Canadian Wind Energy Research Network (CWERN) Fall 2024 Meeting, Calgary, Canad
 
 **Dave S.** Korobenko A. (2024)
 Projection-based model order reduction of environmental flows using FEM-based variational multiscale method.
-_16th World Congress on Computational Mechanics (WCCM), Vancouver, Canada._
+_16<sup>th</sup> World Congress on Computational Mechanics (WCCM), Vancouver, Canada._
 
 **Dave S.** Korobenko A. (2024) 
 Projection-based model order reduction of turbulent flows.
@@ -29,23 +29,23 @@ _Poster Presentation at ICLR 2024 Workshop on AI4DifferentialEquations in Scienc
 
 **Dave S.** Korobenko A. (2023) 
 Modeling smooth-body flow separation with variational multiscale method, finite elements and weakly enforced Dirichlet boundary conditions.
-_14$th International ERCOFTAC symposium on engineering turbulence modeling and measurements, Barcelona, Spain._
+_14<sup>th</sup> International ERCOFTAC symposium on engineering turbulence modeling and measurements, Barcelona, Spain._
 
 **Dave S.** Korobenko A. (2023) 
 Variational multiscale framework with Isogeometric analysis for smooth body flow separation in aerospace and environmental applications.
-_1$st International Conference on Math 2 Product (M2P), Taormina, Italy._
+_1<sup>st</sup> International Conference on Math 2 Product (M2P), Taormina, Italy._
 
 **Dave S.** Korobenko A. (2023)
 Reduced order modeling with variational multiscale method.
-_22nd Computational Fluids Conference (CFC), Cannes, France._
+_22<sup>nd</sup> Computational Fluids Conference (CFC), Cannes, France._
 
 **Dave S.** Korobenko A. (2022) 
 Predicting smooth body flow separation using isogeometric analysis and variational multi-scale method.
-_10th International Conference on Isogeometric Analysis (IGA), Banff, Canada._
+_10<sup>th</sup> International Conference on Isogeometric Analysis (IGA), Banff, Canada._
 
 **Dave S.** Korobenko A. (2022) 
 Application of variational multiscale methods and weakly enforced Dirichlet boundary condition for smooth-body separation.
-_1st High-Fidelity CFD Workshop at AIAA SciTech 2022, San Diego, USA._
+_1<sup>st</sup> High-Fidelity CFD Workshop at AIAA SciTech 2022, San Diego, USA._
 
 **Dave S.** Korobenko A. (2022) 
 Predicting smooth body flow separation using variational multiscale method and weak-Dirichlet boundary conditions.
