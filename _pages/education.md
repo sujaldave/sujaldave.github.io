@@ -28,7 +28,7 @@ _March 2023 - August 2023_
 ### Summer School on Physics-informed Neural Networks (PINNs)
 _June 2023_ (**Received 5 ECTS credits**)
 
-* Teachers: Dr. Geoge Em Karniadakis \& Dr. Khemraj Shukla
+* Teachers: Dr. Geoge Em Karniadakis & Dr. Khemraj Shukla
 * Completed a two-week intensive summer school on Physics-Informed Neural Networks (PINNs) at KTH Royal Institute of Technology, earning 5 ECTS credits (or 125 study hours). Gained hands-on experience with TensorFlow, PyTorch, and JAX, with applications to scientific machine learning and PDEs.
 * Collaborated with international researchers, resulting in a conference paper and poster presentation at an AI-focused workshop on differential equations in science.
 * Developed advanced skills in implementing PINNs for various applications, including UQ and multi-GPU training, utilizing tools like DeepXDE and NVIDIA Modulus.

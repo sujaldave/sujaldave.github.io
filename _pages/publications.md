@@ -38,7 +38,7 @@ _Journal of Aerosol Science_.
 
 ### Thesis
 
-**Master of Science (Thesis), North Caroline State University, Raleigh, USA.**
+**Master of Science (Thesis), North Carolina State University, Raleigh, USA.**
 [A novel hybrid CFD-PBPK model predicting lung-aerosol transport, deposition and species-mass transfer to systemic regions.](https://www.lib.ncsu.edu/resolver/1840.20/38473)
 
 
