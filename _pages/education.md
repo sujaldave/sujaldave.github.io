@@ -45,7 +45,7 @@ _August 2018 - December 2020_
 * Utilized specialized software tools, including OpenFOAM as a CFD solver and ANSYS-ICEM to mesh nasal and lung geometries.
 
 ## Institue of Technology, Nirma University, India
-### B.Tech, Mechanical Engineering (GPA:8/10)
+### B.Tech, Mechanical Engineering (GPA:8.0/10.0)
 _August 2014 - May 2018_
 
 * _Minor in Finance_
