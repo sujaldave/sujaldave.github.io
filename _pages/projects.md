@@ -4,19 +4,41 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 ## Reduced order modeling for stratified flows
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <div style="text-align: center;">
-        <img src="/files/gifs/fom_phi_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model" style="width: 300px; height: auto;">
-        <p>Full Order Model</p>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center; margin-top: 20px;">
+    <!-- First Row: Full Order Modeling -->
+    <div>
+        <img src="/files/gifs/fom_phi_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model - Phi" style="width: 100%; max-width: 400px; height: auto;">
     </div>
-    <div style="text-align: center;">
-        <img src="/files/gifs/r200_phi_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model" style="width: 300px; height: auto;">
-        <p>Reduced Order Model</p>
+    <div>
+        <img src="/files/gifs/fom_umag_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model - Umag" style="width: 100%; max-width: 400px; height: auto;">
+    </div>
+    <div style="grid-column: 1 / span 2; text-align: center; margin: 10px 0;">
+        <h3>Full Order Modeling</h3>
+    </div>
+    <!-- Second Row: Reduced Order Modeling -->
+    <div>
+        <img src="/files/gifs/r200_phi_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model - Phi" style="width: 100%; max-width: 400px; height: auto;">
+    </div>
+    <div>
+        <img src="/files/gifs/r200_umag_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model - Umag" style="width: 100%; max-width: 400px; height: auto;">
+    </div>
+    <div style="grid-column: 1 / span 2; text-align: center; margin: 10px 0;">
+        <h3>Reduced Order Modeling</h3>
     </div>
 </div>
 
+## Reduced order modeling for incompressible flows
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img src="/files/gifs/moveMesh_fomRom_Ucompare.gif" alt="Simulation" style="width: 80%; max-width: 800px; height: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img src="/files/gifs/Re400_FomRom_lidDC.gif" alt="Simulation" style="width: 80%; max-width: 800px; height: auto;">
+</div>
 
 ## Discontinuous Galerkin for Compressible Euler Equations
 _Course: Computational Fluid Dynamics (MAE 766)_
