@@ -21,7 +21,7 @@ Wind Turbine Modeling | Applied Mathematics | Aerodynamics | High Performance Co
         <img src="/files/gifs/phi_vFineMesh_Ra1e9.gif" alt="heatedCavMainPage" style="width: 100%; max-width: 500px; height: auto;">
     </div>
     <div style="text-align: center; flex: 1;">
-        <img src="/files/gifs/fom_nrelPhaseVI_qCrit_comp.gif" alt="nrelPhase6MainPage" style="width: 100%; max-width: 500px; height: auto;">
+        <img src="/files/gifs/fom_nrelPhaseVI_qCrit_comp.gif" alt="nrelPhase6MainPage" style="width: 150%; max-width: 500px; height: auto;">
     </div>
 </div>
 
