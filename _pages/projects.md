@@ -4,6 +4,19 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+## Reduced order modeling for stratified flows
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+    <div style="text-align: center;">
+        <img src="/files/gifs/fom_phi_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model" style="width: 300px; height: auto;">
+        <p>Full Order Model</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="/files/gifs/r200_phi_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model" style="width: 300px; height: auto;">
+        <p>Reduced Order Model</p>
+    </div>
+</div>
+
 
 ## Discontinuous Galerkin for Compressible Euler Equations
 _Course: Computational Fluid Dynamics (MAE 766)_
