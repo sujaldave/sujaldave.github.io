@@ -16,3 +16,15 @@ Variational Multiscale Method | Isogeometric Analysis | Actuator Line Method | M
 Data-Driven Methods | Physics-Informed Neural Networks | Fluid-Structure Interactions | Environmental Flows |
 Wind Turbine Modeling | Applied Mathematics | Aerodynamics | High Performance Computing
 
+<div style="display: flex; justify-content: center; gap: 40px; margin-top: 20px;">
+    <div style="text-align: center; flex: 1;">
+        <img src="/files/gifs/phi_vFineMesh_Ra1e9.gif" alt="heatedCavMainPage" style="width: 100%; max-width: 500px; height: auto;">
+    </div>
+    <div style="text-align: center; flex: 1;">
+        <img src="/files/gifs/fom_nrelPhaseVI_qCrit_comp.gif" alt="nrelPhase6MainPage" style="width: 100%; max-width: 500px; height: auto;">
+    </div>
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img src="/files/gifs/fom_nrel5mw_vortMag.gif" alt="nrel5mwMainPage" style="width: 80%; max-width: 800px; height: auto;">
+</div>

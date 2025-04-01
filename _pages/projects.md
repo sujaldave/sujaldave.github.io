@@ -8,27 +8,31 @@ author_profile: true
 ## Reduced order modeling for stratified flows
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center; margin-top: 20px;">
-    <!-- First Row: Full Order Modeling -->
-    <div>
-        <img src="/files/gifs/fom_phi_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model - Phi" style="width: 100%; max-width: 400px; height: auto;">
-    </div>
-    <div>
-        <img src="/files/gifs/fom_umag_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model - Umag" style="width: 100%; max-width: 400px; height: auto;">
-    </div>
+    <!-- Full Order Modeling Title -->
     <div style="grid-column: 1 / span 2; text-align: center; margin: 10px 0;">
         <h3>Full Order Modeling</h3>
     </div>
-    <!-- Second Row: Reduced Order Modeling -->
+    <!-- First Row: Full Order Modeling -->
     <div>
-        <img src="/files/gifs/r200_phi_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model - Phi" style="width: 100%; max-width: 400px; height: auto;">
+        <img src="/files/gifs/fom_phi_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model - Phi" style="width: 400px; height: 300px; object-fit: contain;">
     </div>
     <div>
-        <img src="/files/gifs/r200_umag_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model - Umag" style="width: 100%; max-width: 400px; height: auto;">
+        <img src="/files/gifs/fom_umag_heatedCav_2D_Ra1p5e9.gif" alt="Full Order Model - Umag" style="width: 400px; height: 300px; object-fit: contain;">
     </div>
+    <!-- Reduced Order Modeling Title -->
     <div style="grid-column: 1 / span 2; text-align: center; margin: 10px 0;">
         <h3>Reduced Order Modeling</h3>
     </div>
+    <!-- Second Row: Reduced Order Modeling -->
+    <div>
+        <img src="/files/gifs/r200_phi_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model - Phi" style="width: 400px; height: 300px; object-fit: contain;">
+    </div>
+    <div>
+        <img src="/files/gifs/r200_umag_heatedCav_2D_Ra1p5e9.gif" alt="Reduced Order Model - Umag" style="width: 400px; height: 300px; object-fit: contain;">
+    </div>
 </div>
+
+
 
 ## Reduced order modeling for incompressible flows
 
