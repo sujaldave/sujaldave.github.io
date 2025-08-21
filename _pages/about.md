@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the University of Calgary and a member of [CFSM Lab](https://www.cfsmgroup.com/). My research mainly focuses on computational fluid dynamics (CFD), turbulence modeling, reduced order modeling (ROM) and machine learning for CFD. I am currently developing an in-house finite element method (FEM) based CFD solver for reducing the dimensionality and computational costs of simulating environmental flows typically for wind turbine and wind farm modeling.
+I am a **PhD graduate in Mechanical Engineering** from the University of Calgary and a former member of the [CFSM Lab](https://www.cfsmgroup.com/). My research focuses on **computational fluid dynamics (CFD), turbulence modeling, reduced-order modeling (ROM), and scientific machine learning for CFD applications**.
+
+During my doctoral studies, I developed and advanced an **in-house finite element method (FEM)-based CFD solver** to reduce the dimensionality and computational cost of simulating **environmental flows**, with a particular emphasis on **wind turbine wakes and wind farm modeling**. My work integrates **variational multiscale (VMS) formulations, projection-based ROMs, and physics-informed machine learning techniques** to improve both accuracy and efficiency in large-scale turbulent flow simulations.
+
+I continue to explore the intersection of **computational mechanics, applied mathematics, and machine learning** to develop scalable, reliable, and high-fidelity simulation tools for real-world engineering challenges.
+
 
 Research Focus
 ======

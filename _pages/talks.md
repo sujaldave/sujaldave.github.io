@@ -13,10 +13,6 @@ _Oden Institute, Austin, Texas_
 
 ## Conference Presentations
 
-Regmi A., **Dave S.**, Morici V., Castorrini A. and Korobenko A. (2025)
-<span style="color:#0B6623;">Simulations of stratified flow over windfarm with actuator line method under variational multiscale framework.</span>
-_Wind Energy Science Conference (WESC) 2025, Nantes, France._
-
 Morici V., Regmi A., **Dave S.**, Castorrini A. and Korobenko A. (2025)
 <span style="color:#0B6623;">Addressing end-effects in wind turbine simulations using actuator line model within FEM-based variational multiscale framework. </span>
 _Wind Energy Science Conference (WESC) 2025, Nantes, France._

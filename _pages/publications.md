@@ -7,18 +7,15 @@ author_profile: true
 
 ## Journal Publications
 
-### In Preparation
-
-**Dave S.** & Korobenko A.
-<span style="color:#0047AB;">Consistent reduced order modeling for wind turbine wakes using variational multiscale method.</span>
-
-### Under Review
+### Published
 
 **Dave S.** & Korobenko A. (2025)
-<span style="color:#0047AB;">Predicting smooth body flow separation using weakly-imposed Dirichlet boundary conditions, isogeometric analysis and variational multiscale method.</span>
-_Computational Mechanics_.
+[Consistent reduced order modeling for wind turbine wakes using variational multiscale method and actuator line model.](https://doi.org/10.1016/j.cma.2025.118194)
+_Computer Methods in Applied Mechanics and Engineering_.
 
-### Published
+**Dave S.** & Korobenko A. (2025)
+[Predicting smooth body flow separation with finite-element-based variational multiscale formulation.](https://doi.org/10.1007/s00466-025-02650-0)
+_Computational Mechanics_.
 
 Jnini A., Goordoyal H., **Dave S.**, Korobenko A., Vella F., Fraser K. (2024)
 [Physics-constrained DeepONet for surrogate CFD models: a curved backward-facing step case.](https://openreview.net/pdf?id=zRef200Ucc)
@@ -36,7 +33,10 @@ _2022 AIAA SciTech Forum and Exposition_.
 [An effective pbpk model predicting dissolved drug transfer from a representative nasal cavity to the blood stream.](https://doi.org/10.1016/j.jaerosci.2021.105898)
 _Journal of Aerosol Science_. 
 
-### Thesis
+### Theses
+
+**Doctor of Philosophy (Thesis), University of Calgary, Calgary, Canada.**
+[Reduced Order Modelling of Turbulent Flows in the Framework of Variational Multi-Scale Method.](https://hdl.handle.net/1880/122388) 
 
 **Master of Science (Thesis), North Carolina State University, Raleigh, USA.**
 [A novel hybrid CFD-PBPK model predicting lung-aerosol transport, deposition and species-mass transfer to systemic regions.](https://www.lib.ncsu.edu/resolver/1840.20/38473)

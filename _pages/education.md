@@ -7,7 +7,7 @@ author_profile: true
 
 ## University of Calgary, Canada
 ### PhD, Mechanical Engineering (GPA:4.0/4.0)
-_May 2021 - June 2025_
+_May 2021 - July 2025_
 
 * Advisor: Dr. Artem Korobenko
 * Advancing the in-house wind turbine simulation tool for faster and accurate wind farm simulations using ALM for environmental flows. Investigating the role of atmospheric stratification on wind turbine wake in different layouts.
