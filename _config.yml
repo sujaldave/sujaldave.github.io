@@ -23,9 +23,9 @@ repository               : "sujaldave"
 author:
   # Biographic information
   avatar           : "sujalProfilePic.jpeg"
-  name             : "Sujal Dave"
+  name             : "Sujal Dave, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at University of Calgary"
+  bio              : # "PhD Candidate at University of Calgary"
   location         : "Calgary, Alberta, Canada"
   employer         : "University of Calgary"
   uri              : # URL
