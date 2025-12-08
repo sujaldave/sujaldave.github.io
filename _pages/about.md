@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD graduate in Mechanical Engineering** from the University of Calgary and a former member of the [CFSM Lab](https://www.cfsmgroup.com/). My research focuses on **computational fluid dynamics (CFD), turbulence modeling, reduced-order modeling (ROM), and scientific machine learning for CFD applications**.
+I am a **Postdoctoral Researcher** in the Department of Pediatrics at Stanford University in the [Marsden Lab](https://cbcl.stanford.edu). I am currently working on accelerating the computational solver of the opensource cardiovascular simulation package [SimVascular](https://simvascular.github.io/) by using GPU-based libraries.
 
-During my doctoral studies, I developed and advanced an **in-house finite element method (FEM)-based CFD solver** to reduce the dimensionality and computational cost of simulating **environmental flows**, with a particular emphasis on **wind turbine wakes and wind farm modeling**. My work integrates **variational multiscale (VMS) formulations, projection-based ROMs, and physics-informed machine learning techniques** to improve both accuracy and efficiency in large-scale turbulent flow simulations.
+During my doctoral studies at [CFSM Lab](https://www.cfsmgroup.com/), I developed and advanced an **in-house finite element method (FEM)-based CFD solver** to reduce the dimensionality and computational cost of simulating **environmental flows**, with a particular emphasis on **wind turbine wakes and wind farm modeling**. My work integrates **variational multiscale (VMS) formulations, projection-based ROMs, and physics-informed machine learning techniques** to improve both accuracy and efficiency in large-scale turbulent flow simulations.
 
 I continue to explore the intersection of **computational mechanics, applied mathematics, and machine learning** to develop scalable, reliable, and high-fidelity simulation tools for real-world engineering challenges.
 
