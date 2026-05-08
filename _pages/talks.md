@@ -7,8 +7,10 @@ author_profile: true
 
 ## Invited Talks
 
-2025 [Rising Stars in Computational & Data Sciences](https://risingstars.oden.utexas.edu/)
+[2026 Rising Stars in Computational & Data Sciences](https://risingstars.oden.utexas.edu/past-events/2026-workshop)
 _Oden Institute, Austin, Texas_
+
+* I was one among the 30 Rising Stars selected out of approximately 240 applications. The cohort included outstanding postdocs and PhD students from institutions around the U.S. covering a wide spectrum of computational and data science topics in engineering, atmospheric, material, biological and social sciences research; as well as foundational methods for uncertainty quantification, optimization, meshing, AI models and reduced-order modeling.
 
 
 ## Conference Presentations
